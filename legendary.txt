@@ -15,7 +15,12 @@ And on, and on, and on
 'Cause we're gonna be legends
 Gonna get their attention
 What we're doing here ain't just scary
+<<<<<<< HEAD
 Mark Rhoy is about to be legendary
+=======
+Mark Rhoy about to be legendary
+Nicolas Da Silva is about to be legendary
+>>>>>>> f0f5467367b759275ad1fd901a8ca91400a30fa4
 Yeah we're gonna be legends
 Gonna teach 'em all a lesson
 Got this feeling that we're so sweet caring
