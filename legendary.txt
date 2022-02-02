@@ -15,7 +15,11 @@ And on, and on, and on
 'Cause we're gonna be legends
 Gonna get their attention
 What we're doing here ain't just scary
+<<<<<<< HEAD
 Genesis is about to be legendary
+=======
+Dan Marion is about to be legendary
+>>>>>>> aa895dd2a1fdc4d9ca5cf1d082e6348ac7c5713f
 Yeah, we're gonna be legends
 Gonna teach 'em all a lesson
 Got this feeling in our souls we carry
