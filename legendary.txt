@@ -15,7 +15,11 @@ And on, and on, and on
 'Cause we're gonna be legends
 Gonna get their attention
 What we're doing here ain't just scary
+<<<<<<< HEAD
 Louie about to be legendary
+=======
+Jake is about to be legendary
+>>>>>>> 2f883f2d550b01571785fa4ca1c52c8babcb1598
 Yeah, we're gonna be legends
 Gonna teach 'em all a lesson
 Got this feeling in our souls we carry
