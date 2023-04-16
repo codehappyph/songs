@@ -2,9 +2,9 @@
 a collection of favorite songs
 
 The following manages this branch:
-Reginald Geoffrey Bayeta IV (Ding)
-Jacob Darvin (Jacob)
-Xenia Francine Umbal (Xenia)
+* Reginald Geoffrey Bayeta IV (Ding)
+* Jacob Darvin (Jacob)
+* Xenia Francine Umbal (Xenia)
 
 For the merge conflict activity, this is the assigned deliverables for each member:
 1. gladiator.txt   (jacob) -> push -> ding -> push (ding PRs, jacob resolve)
