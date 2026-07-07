@@ -15,7 +15,11 @@ And on, and on, and on
 'Cause we're gonna be legends
 Gonna get their attention
 What we're doing here ain't just scary
+<<<<<<< HEAD
 Dani is about to be legendary
+=======
+Claire is about to be legendary
+>>>>>>> 5ed9aa1a3b5c4c14ad6446fcf7748e7294eb74c3
 Yeah, we're gonna be legends
 Gonna teach 'em all a lesson
 Got this feeling in our souls we carry
